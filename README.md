@@ -1,4 +1,4 @@
-# c---ile-deneme-takip-otomasyonu
+# c++-ile-deneme-takip-otomasyonu
 Otomayon benim birinci sınıf dönem sonu proje ödevim.
 Uygulamayı kendi üniversite sınav döneminde deneme takip olayını düşünerek tasarladım.Dershanedelerde hala kağıt üzerinden sonuç takipleri yapılıyor her deneme için ayrı ayrı web sitesi kullanılıyor.
 Ögretmenler için öğrencilerinin deneme sonuçlarını eksik konularını takip edip onları kontrol edecekleri bir otomasyon.
