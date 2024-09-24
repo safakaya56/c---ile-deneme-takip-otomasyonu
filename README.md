@@ -1,6 +1,15 @@
-# c++-ile-deneme-takip-otomasyonu
-Otomayon benim birinci sınıf dönem sonu proje ödevim.
-Uygulamayı kendi üniversite sınav döneminde deneme takip olayını düşünerek tasarladım.Dershanedelerde hala kağıt üzerinden sonuç takipleri yapılıyor her deneme için ayrı ayrı web sitesi kullanılıyor.
-Ögretmenler için öğrencilerinin deneme sonuçlarını eksik konularını takip edip onları kontrol edecekleri bir otomasyon.
-Otomasyonu günümüz üniversite sınavına entegre edeceğim.Deneme kayıtlarını AYT ve TYT olarak iki menüye ayıracağım. Deneme tarihi ve yayın ismi kısımlarını ekleyeceğim.
-c++ da oop de geliştikçe otomasyonu daha da iyileştirecek ve grafik kütüphanesi ile görüntü iyileştirmeleri yapacağım.
+# Öğrenci Deneme Takip Otomasyonu
+
+Bu proje, öğretmenlerin öğrencilerinin deneme sınavı sonuçlarını ve eksik konularını takip etmelerini sağlayan bir otomasyon sistemidir. Aşağıdaki özelliklere sahiptir:
+
+- Öğretmen yetkilendirmesi
+- Öğrenci kaydı ekleme
+- Öğrenci kaydı arama
+- Deneme sonuçları: Matematik, Fen, Türkçe, Sosyal netleri
+- Çalışması gereken konular ve durum bilgisi
+
+### Kullanım
+1. Öğretmen kaydı oluşturabilir veya mevcut öğretmen olarak giriş yapabilirsiniz.
+2. Öğrencilerin deneme sonuçlarını ekleyip sorgulayabilirsiniz.
+
+**Not**: Bu proje, benim birinci sınıf dönem sonu proje ödevimdir.Belki grafik ve genel iyileştirmeler olabilir ama güncelleme almayabilir de.
